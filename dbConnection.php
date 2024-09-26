@@ -1,6 +1,6 @@
 <?php
 $databaseHost = 'localhost';
-$databaseName = 'rawr_jago';
+$databaseName = 'test';
 $databaseUsername = 'ubuntu';
 $databasePassword = 'vockey';
 
